@@ -1,9 +1,8 @@
-const express = require('express');
+/* eslint-disable no-console */
+/* eslint-disable no-multiple-empty-lines */
+const app = require('./app');
 
-const app = express();
-
-app.get('/', (req, res) => {
-  res.status(200).send();
+app.listen(3001, () => {
+  console.log('A aplicação está no ar!');
 });
 
-app.listen(3001);
