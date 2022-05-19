@@ -1,3 +1,6 @@
+/* eslint-disable linebreak-style */
+/* eslint-disable arrow-body-style */
+/* eslint-disable linebreak-style */
 const request = require('supertest');
 
 const app = require('../src/app');
