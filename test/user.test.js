@@ -1,3 +1,4 @@
+/* eslint-disable semi */
 /* eslint-disable arrow-body-style */
 /* eslint-disable linebreak-style */
 /* eslint-disable no-multi-spaces */
